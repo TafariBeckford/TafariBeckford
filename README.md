@@ -6,7 +6,7 @@
 
 Github Stats:chart_with_upwards_trend:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&show_icons=true&theme=blue-green)   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&show_icons=true&theme=blue-green)  &nbsp;  &nbsp; ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&theme=blue-green)
 
 <!--
 **TafariBeckford/TafariBeckford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

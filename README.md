@@ -1,4 +1,4 @@
-# Hi there I'm Tafari Beckford 👋
+# Hi there, I'm Tafari Beckford 👋
 
 ### Tools and Languages :wrench:
 

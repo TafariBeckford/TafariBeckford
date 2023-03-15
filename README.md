@@ -1,12 +1,4 @@
-# Hi there, I'm Tafari Beckford 👋
-
-### Tools and Languages :wrench:
-
-### Connect with Me 
-
-
-
-
+# Hi, I'm Tafari Beckford 👋
 
 
 ### Github Stats:chart_with_upwards_trend:

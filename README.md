@@ -39,4 +39,4 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&hide=TeX&layout=compact)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tafaribeckford&" alt="tafaribeckford" /></p> -->
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TafariBeckford}1212%2Fhit-counter))
+<!--[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TafariBeckford}1212%2Fhit-counter)) -->

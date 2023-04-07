@@ -2,9 +2,9 @@
 
 Find out more about me & feel free to connect with me here:
 
-![Linkedin Badge](https://img.shields.io/badge/Tafari%20Beckford-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tafari-beckford/)
-![Hashnode](https://img.shields.io/badge/Tafari%20Beckford-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://blog.tafaribeckford.com/)
-![Gmail Badge](https://img.shields.io/badge/-beckfordtafari55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:beckfordtafari55@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Tafari%20Beckford-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tafari-beckford/)](https://www.linkedin.com/in/tafari-beckford/)
+[![Hashnode](https://img.shields.io/badge/Tafari%20Beckford-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://blog.tafaribeckford.com/)](https://blog.tafaribeckford.com/)
+[![Gmail Badge](https://img.shields.io/badge/-beckfordtafari55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:beckfordtafari55@gmail.com)](mailto:beckfordtafari55@gmail.com)
 ![Polywork](https://img.shields.io/badge/Tafari%20Beckford-543DE0?style=for-the-badge&logo=polywork&logoColor=black)
 
 ##  :wrench: Tools & Technologies

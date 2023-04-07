@@ -1,24 +1,35 @@
 # Hi, I'm Tafari Beckford 👋
 
+Find out more about me & feel free to connect with me here:
 
-### Github Stats:chart_with_upwards_trend:
+[![Linkedin Badge](https://img.shields.io/badge/Tafari%20Beckford-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
+[![Hashnode](https://img.shields.io/badge/Tafari%20Beckford-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Gmail Badge](https://img.shields.io/badge/-beckfordtafari55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:beckfordtafari55@gmail.com)](mailto:Broadus@Levelupintech.com)
+	![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)
 
- &nbsp;  &nbsp;![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&theme=blue-green)
+## ⚡ Technologies
 
----
+<!-- Check out the Badges folder for more badges -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!--
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&show_icons=true&theme=blue-green) 
-**TafariBeckford/TafariBeckford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+## Github
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&hide=TeX&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=TafariBeckford%2FTafariBeckford&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=TafariBeckford%2FTafariBeckford)

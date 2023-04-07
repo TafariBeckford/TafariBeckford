@@ -2,10 +2,10 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/Tafari%20Beckford-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
+[![Linkedin Badge](https://img.shields.io/badge/Tafari%20Beckford-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.[[linkedin.com/in/levelupwithbroadus](https://www.linkedin.com/in/tafari-beckford/)](https://www.linkedin.com/in/tafari-beckford/)/)](https://www.[linkedin.com/in/levelupwithbroadus/](https://www.linkedin.com/in/tafari-beckford/))
 [![Hashnode](https://img.shields.io/badge/Tafari%20Beckford-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
 [![Gmail Badge](https://img.shields.io/badge/-beckfordtafari55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:beckfordtafari55@gmail.com)](mailto:Broadus@Levelupintech.com)
-	![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)
+![Polywork](https://img.shields.io/badge/Tafari%20Beckford-543DE0?style=for-the-badge&logo=polywork&logoColor=black)
 
 ## ⚡ Technologies
 
@@ -22,7 +22,12 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->

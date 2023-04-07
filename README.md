@@ -7,7 +7,7 @@ Find out more about me & feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-beckfordtafari55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:beckfordtafari55@gmail.com)](mailto:Broadus@Levelupintech.com)
 ![Polywork](https://img.shields.io/badge/Tafari%20Beckford-543DE0?style=for-the-badge&logo=polywork&logoColor=black)
 
-## ⚡ Technologies
+##  :wrench: Tools & Technologies
 
 <!-- Check out the Badges folder for more badges -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -17,8 +17,10 @@ Find out more about me & feel free to connect with me here:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,10 +33,10 @@ Find out more about me & feel free to connect with me here:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-## Github
+##  :chart_with_upwards_trend: Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&hide=TeX&layout=compact)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tafaribeckford&" alt="tafaribeckford" /></p> -->
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=TafariBeckford%2FTafariBeckford&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=TafariBeckford%2FTafariBeckford)
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TafariBeckford}1212%2Fhit-counter))

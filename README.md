@@ -35,8 +35,8 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 ##  :chart_with_upwards_trend: Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&hide=TeX&layout=compact)
+[![Tafari GitHub stats](https://github-readme-stats.vercel.app/api?username=TafariBeckford&hide=issues&count_private=true&include_all_commits=file)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariBeckford&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tafaribeckford&" alt="tafaribeckford" /></p> -->
 
 <!--[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TafariBeckford}1212%2Fhit-counter)) -->
